@@ -33,4 +33,8 @@ My name is Brandon Montezuma and I am currently attending [Atlas School](https:/
 - Houdini
 - Photoshop
 
+## Resources
+
+- [replit](https://replit.com/@appbrewery/band-name-generator-end#main.py)
+
 
